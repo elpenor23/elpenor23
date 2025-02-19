@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#     33 mins         ████████████████████████▓   98.08 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
